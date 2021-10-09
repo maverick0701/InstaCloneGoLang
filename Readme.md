@@ -22,4 +22,5 @@ Click Here To Import Post Man Collection</a>
 <img src='./PostDatabase.png'></img>
 
 Demo Video:
-<video src='https://www.youtube.com/embed/qwReMQ6JjbM' width=180/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qwReMQ6JjbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
