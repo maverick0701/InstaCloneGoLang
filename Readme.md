@@ -23,4 +23,4 @@ Click Here To Import Post Man Collection</a>
 
 Demo Video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qwReMQ6JjbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href='https://youtu.be/MKoNW33iSNQ'>Click here to find demo Video</a>
