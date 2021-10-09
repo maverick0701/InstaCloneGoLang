@@ -12,3 +12,6 @@
 
 <h1>User Databse</h1>
 <img src='./userDatabase.png'></img>
+
+<h1>Post Database</h1>
+<img src='./PostDatabase.png'></img>
