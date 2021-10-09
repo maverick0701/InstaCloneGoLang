@@ -12,8 +12,14 @@ Click Here To Import Post Man Collection</a>
 <li>/posts/{id} :to query post by post id</li>
 </ul>
 
+<h1>How Pagination Works</h1>
+
+<p>/posts/users/{id}/{pages} in this end point the first param refers to userId and second param refers to pageNo</p>
 <h1>User Databse</h1>
 <img src='./userDatabase.png'></img>
 
 <h1>Post Database</h1>
 <img src='./PostDatabase.png'></img>
+
+Demo Video:
+<video src='./vid.mkv' width=180/>
