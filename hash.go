@@ -32,6 +32,7 @@ func hashPassword(password string, salt []byte) string {
 	var sha512Hasher = sha512.New()
 
 	// Append salt to password
+	salt= []byte{7, 20 ,118, 194, 45, 247, 47, 37, 106, 90, 251, 54, 144, 36, 7, 124}
 	passwordBytes = append(passwordBytes, salt...)
 
 	// Write password bytes to the hasher
