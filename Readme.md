@@ -3,9 +3,12 @@
 
 <p>Endpoints List</p>
 <ul>
-<li>/users : to create new user</li>
-<li>/users/{id}: to search user by id</li>
-<li>/posts: to create posts</li>
+<li>/users      : to create new user</li>
+<li>/users/{id} : to search user by id</li>
+<li>/posts      : to create posts</li>
 <li>/posts/users/{id}/{pages}:to query post of a particular user and return response by page no</li>
 <li>/posts/{id} :to query post by post id</li>
 </ul>
+
+<h1>User Databse</h1>
+<img src='./userDatabase.png'></img>
